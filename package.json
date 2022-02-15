@@ -1,0 +1,14 @@
+{
+  "name": "invite_nft_bot_discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/progforyou/invite_nft_bot_discord.git",
+  "author": "nikolay.sychev.1999 <nikolay.sychev.1999@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  }
+}
