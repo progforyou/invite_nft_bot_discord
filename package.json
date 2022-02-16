@@ -6,6 +6,7 @@
   "author": "nikolay.sychev.1999 <nikolay.sychev.1999@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "crypto": "^1.0.1",
     "discord.js": "^13.6.0",
     "dotenv": "^16.0.0",
     "sqlite": "^4.0.23",
